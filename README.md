@@ -44,6 +44,6 @@ def solve(meal_cost, tip_percent, tax_percent):
 
 Mostly I had to realize exactly what was being asked. I am used to returning on functions that I might have forgotten sometimes a return is not neccessary when all you want is it displayed.
 
-# acknowledgments
+# Acknowledgments
 
 * [HackerRank](https://www.hackerrank.com)
